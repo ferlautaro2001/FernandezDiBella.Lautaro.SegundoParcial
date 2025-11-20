@@ -1,0 +1,16 @@
+[
+  {
+    "capacidadCarga": 350.0,
+    "nombre": "Industrial01",
+    "nivelEnergia": 20,
+    "numeroSerie": 1,
+    "tipo": "Industrial"
+  },
+  {
+    "capacidadCarga": 700.0,
+    "nombre": "Industrial02",
+    "nivelEnergia": 30,
+    "numeroSerie": 2,
+    "tipo": "Industrial"
+  }
+]
